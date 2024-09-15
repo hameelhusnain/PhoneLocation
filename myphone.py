@@ -1,1 +1,2 @@
-number = "+923476935975"
+# Add the country code before dailing number.
+number = "+1234567890"
